@@ -1,0 +1,13 @@
+# NAME: 115
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:12:40
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 9
+# TOTAL: 10
+payload:  
+  - DOMAIN,home.ovo.cc
+  - DOMAIN,tongji.baidu.com
+  - DOMAIN,tjupt.org
+  - DOMAIN-SUFFIX,realvnc.com
+  - DOMAIN-SUFFIX,tjupt.org
