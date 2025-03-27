@@ -8,6 +8,4 @@
 payload:  
   - DOMAIN,home.ovo.cc
   - DOMAIN,tongji.baidu.com
-  - DOMAIN,tjupt.org
   - DOMAIN-SUFFIX,realvnc.com
-  - DOMAIN-SUFFIX,tjupt.org
