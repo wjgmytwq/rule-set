@@ -1,13 +1,14 @@
-# NAME: 115
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:12:40
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 9
-# TOTAL: 10
+# NAME: Oracle Cloud服务器相关
+# AUTHOR: wjgmytwq
+# REPO: https://ovo.cc
 payload:  
-  - DOMAIN-SUFFIX,ovo.cc
   - DOMAIN-SUFFIX,cx.al
-  - DOMAIN-SUFFIX,emr.cc
+  - DOMAIN-SUFFIX,drive.pub
   - DOMAIN-SUFFIX,guo.ge
+  - DOMAIN-SUFFIX,nation.cc
+  - DOMAIN-SUFFIX,ntxz.com
+  - DOMAIN-SUFFIX,ntmd.cn
+  - DOMAIN-SUFFIX,ovo.cc
+  - DOMAIN-SUFFIX,wangzhe.me
+  - DOMAIN-SUFFIX,zhe.me
 
