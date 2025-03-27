@@ -1,10 +1,7 @@
-# NAME: 115
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:12:40
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 9
-# TOTAL: 10
+# NAME: 需要挂美国VPN的地址，一般以AI，电商，服务器类为主
+# AUTHOR: wjgmytwq
+# REPO: https://ovo.cc
+
 payload:  
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,anthropic.com
