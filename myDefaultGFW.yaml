@@ -3,6 +3,6 @@
 # REPO: https://ovo.cc
 
 payload:  
-  - DOMAIN-SUFFIX,dytt8.net #电影天堂
-  - DOMAIN-SUFFIX,edclub.com #打字练习 typing club
+  - DOMAIN-SUFFIX,dytt8.net
+  - DOMAIN-SUFFIX,edclub.com
 
