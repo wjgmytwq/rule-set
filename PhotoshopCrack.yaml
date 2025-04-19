@@ -2,7 +2,9 @@
 # AUTHOR: wjgmytwq
 # REPO: https://ovo.cc
 prepend:
-  - DOMAIN-REGEX,^[a-zA-Z0-9]{10,12}\.(adobe\.io|adobestats\.io|prod\.cloud\.adobe\.io)$
-  - DOMAIN-SUFFIX,prod.adobegenuine.com
-  - DOMAIN-SUFFIX,cc-api-data.adobe.io
-  - DOMAIN-SUFFIX,ic.adobe.io
+  - 'DOMAIN-REGEX,^[a-zA-Z0-9]{10,12}\.(adobe\.io|adobestats\.io|prod\.cloud\.adobe\.io)$,REJECT'
+  - 'DOMAIN-SUFFIX,prod.adobegenuine.com,REJECT'
+  - 'DOMAIN-SUFFIX,cc-api-data.adobe.io,REJECT'
+  - 'DOMAIN-SUFFIX,ic.adobe.io,REJECT'
+  - 'PROCESS-NAME-REGEX,Adobe.*,DIRECT'
+  - 'PROCESS-NAME,Photoshop.exe,DIRECT'
