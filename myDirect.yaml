@@ -6,3 +6,5 @@ payload:
   - DOMAIN,home.ovo.cc
   - DOMAIN,tongji.baidu.com
   - DOMAIN-SUFFIX,realvnc.com
+  - DOMAIN-SUFFIX,asus.com
+  - DOMAIN-SUFFIX,asus.com.cn
