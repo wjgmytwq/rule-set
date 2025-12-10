@@ -5,7 +5,7 @@
 payload:  
   - DOMAIN,home.ovo.cc
   - DOMAIN,tongji.baidu.com
-  - sb.scorecardresearch.com
+  - DOMAIN,sb.scorecardresearch.com
   - DOMAIN-SUFFIX,realvnc.com
   - DOMAIN-SUFFIX,asus.com
   - DOMAIN-SUFFIX,asus.com.cn
