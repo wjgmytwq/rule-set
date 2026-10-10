@@ -3,8 +3,8 @@
 # REPO: https://ovo.cc
 
 payload:  
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,azure.com
-  - DOMAIN-SUFFIX,deepseek.com
+#  - DOMAIN-SUFFIX,bard.google.com
+#  - DOMAIN-SUFFIX,anthropic.com
+#  - DOMAIN-SUFFIX,azure.com
+#  - DOMAIN-SUFFIX,deepseek.com
 
