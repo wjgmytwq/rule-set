@@ -4,6 +4,7 @@
 
 payload:  
   - DOMAIN,home.ovo.cc
+  - DOMAIN,home.zhe.me
   - DOMAIN,tongji.baidu.com
   - DOMAIN,sb.scorecardresearch.com
   - DOMAIN-SUFFIX,realvnc.com
