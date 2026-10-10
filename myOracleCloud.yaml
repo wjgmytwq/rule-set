@@ -2,12 +2,10 @@
 # AUTHOR: wjgmytwq
 # REPO: https://ovo.cc
 payload:  
-  - DOMAIN-SUFFIX,cx.al
   - DOMAIN-SUFFIX,drive.pub
   - DOMAIN-SUFFIX,guo.ge
   - DOMAIN-SUFFIX,nation.cc
   - DOMAIN-SUFFIX,ntxz.com
-  - DOMAIN-SUFFIX,ntmd.cn
   - DOMAIN-SUFFIX,ovo.cc
   - DOMAIN-SUFFIX,wangzhe.me
   - DOMAIN-SUFFIX,zhe.me
